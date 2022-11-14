@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tontan-Hak&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="Tontan-Hak" /> </p>
 
 # 💫 About Me : [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Tontan-Hak/Tontan-Hak)
-- 🚀 I’m currently a learning facilitator at [E2stem education, Cambodia](https://e2stem.org.kh/).
+- 🚀 I’m  learning facilitator at [RUPP PHNOM PENH, Cambodia](https://WWW.RUPP.edu.kh/).
 - 🌱 I am doing more about learning: Python, C#, HTML, CSS, Java Script.
 - 👯 I’m looking for mentor to help me in software engineering.
 - 💬 Ask me about Math or any tech-related stuff.
-- 📫 How to reach me: **tontanhak97@gmail.com**
+- 📫 How to reach me: **haklythorn09@gmail.com**
 - ⚡ Fun fact: When I finished high school, I want to be a Civil Engineer. I have a bachelor's degree in mathematics and become a teacher and now aspire to be a software Engineering.
 
 **My Journey**
